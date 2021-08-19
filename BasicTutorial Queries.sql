@@ -29,6 +29,9 @@ insert into EmployeeDemographics values
 (1009,'Zubair','Waqar',22,'Male'),
 (1011,'Zampa','Adam',23,'Male')
 
+insert into EmployeeDemographics(FirstName,LastName,Age,Gender) values 
+('Amjad','Ali',24,'Male')
+
 insert into EmplyeeSalary values
 (1001,'Salesman',25000),
 (1002,'Manager',45000),
@@ -38,7 +41,8 @@ insert into EmplyeeSalary values
 (1006,'HR',50000),
 (1007,'Regional Manager',65000),
 (1008,'Product Manager',55000),
-(1009,'Accountant',45000)
+(1009,'Accountant',45000),
+(1010,'Salesman',25000)
 
 insert into EmplyeeSalary (JobtTitle, Salary) values
 ('HR Intern',26000)
