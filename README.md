@@ -1,3 +1,2 @@
 # SQL_Tutorials
-Here you can learn SQL from Basic to Advanced Level.
-In **BasicTutorial Queries**, you will be able to learn how to **create table** and **insert value** into it. Also you will be able to use **Select, Where, Group By and Order By** statements for different purposes.
+"Unlock the world of SQL with our comprehensive learning path from Basic to Advanced levels! 🚀 In our Basic Tutorial Queries, master the fundamentals by learning to create tables, insert values, and harness the power of Select, Where, Group By, and Order By statements for various purposes. 📊💡 Dive into the essentials and elevate your SQL skills step by step. Start your SQL journey with us today! 👩‍💻👨‍💻 #SQLLearning #BasicToAdvanced #DatabaseSkills"
